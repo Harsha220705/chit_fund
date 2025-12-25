@@ -54,6 +54,7 @@ def display_main():
                 76000, 78000, 80000, 84000, 90000, 100000
             ]
         })
+        df.set_index('Serial Number')
         st.dataframe(df,use_container_width=True)
 
 
