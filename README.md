@@ -32,55 +32,6 @@ chit-fund-app/
 │── requirements.txt
 │── README.md
 
----
-
-## ▶️ How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/chit-fund-app.git
-   cd chit-fund-app
-
-	2.	Install dependencies:
-
-pip install -r requirements.txt
-
-
-	3.	Run the Streamlit app:
-
-streamlit run app.py
-
-
-	4.	Open your browser and visit:
-
-http://localhost:8501
-
-
-
-⸻
-
-☁️ Hosting
-
-This application is deployed using Streamlit Community Cloud.
-
-To deploy:
-	•	Push the code to GitHub
-	•	Go to https://share.streamlit.io
-	•	Select the repository and deploy app.py
-
-⸻
-
-🎯 Purpose
-
-The purpose of this app is to provide a transparent and easy-to-understand view of chit fund information, helping users track savings confidently and avoid confusion.
-
-⸻
-
-📌 Note
-
-This is a demonstration application intended for informational purposes only.
-
-⸻
 
 🙌 Acknowledgement
 
